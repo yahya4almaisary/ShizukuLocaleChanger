@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shizuku Locale Changer</string>
+    <string name="title_change_language">تغيير اللغة</string>
+    <string name="current_language">اللغة الحالية</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="french">Français</string>
+    <string name="spanish">Español</string>
+    <string name="german">Deutsch</string>
+    <string name="chinese">中文</string>
+    <string name="japanese">日本語</string>
+    <string name="korean">한국어</string>
+    <string name="apply">تطبيق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="success">تم تغيير اللغة بنجاح!</string>
+    <string name="error">حدث خطأ في تغيير اللغة</string>
+    <string name="shizuku_not_available">Shizuku غير متاح</string>
+    <string name="permission_denied">تم رفض الصلاحية</string>
+    <string name="please_install_shizuku">يرجى تثبيت تطبيق Shizuku أولاً</string>
+    <string name="shizuku_permission_required">يتطلب صلاحية Shizuku</string>
+</resources>
